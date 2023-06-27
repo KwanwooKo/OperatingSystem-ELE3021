@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "new": "c",
+        "user.h": "c",
+        "proc.h": "c",
+        "types.h": "c",
+        "*.tcc": "c",
+        "cstdlib": "c",
+        "memory": "c",
+        "param.h": "c",
+        "memlayout.h": "c",
+        "mmu.h": "c",
+        "defs.h": "c",
+        "limits": "c",
+        "spinlock.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+}
