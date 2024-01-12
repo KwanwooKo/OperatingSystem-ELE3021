@@ -1,7 +1,5 @@
 # Project02-wiki
 
-### 2020060100 고관우
-
 ## Design
 
 1. int exec2(char *path, char **argv, int stacksize)
