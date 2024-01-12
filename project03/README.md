@@ -1,6 +1,5 @@
 # Project03-wiki
 
-### 2020060100 고관우
 
 ## Multi Indirect
 
